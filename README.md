@@ -1,0 +1,2 @@
+This is a very simple python code that generates a QR code for a link or search. Currently, running it will generate a QR code for my Github and uncommenting the second to last line will allow the user to download the QR code as an .png file. 
+Next steps would be to create a GUI that allows the user to paste their own custom link and then generating a QR code for that as well as an option to save the QR code as an image.
