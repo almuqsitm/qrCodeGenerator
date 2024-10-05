@@ -85,6 +85,6 @@ img = qr.make_image(fill_color='black',back_color='white')
 
 #img.save('MyQRCode2.png')
 #img.show()
-
+#
 MyGUI()
 
